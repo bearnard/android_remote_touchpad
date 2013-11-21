@@ -1,4 +1,4 @@
-android_remote_github
+Android Remote Touchpad 
 =====================
 
 Android Bluetooth touchpad client and server app
