@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobilny touchpad</string>
+    <string name="btn_find">Szukaj urządzenia</string>
+    <string name="bt_not_enabled_leaving">Bluetooth nie jest dostępny. Koniec programu.</string>
+    <string name="title_paired_devices">Sparowane urządzenia</string>
+    <string name="title_other_devices">Inne urządzenia</string>
+    <string name="button_scan">Skanuj dostępne urządzenia</string>
+    <string name="none_paired">Brak sparowanych urządzeń</string>
+    <string name="scanning">Skanuje w poszukiwaniu urządzeń...</string>
+    <string name="none_found">Nie znaleziono urządzeń.</string>
+    <string name="select_device">Wybierz serwer do połączenia</string>
+    <string name="connect">Połącz z serwerem</string>
+    <string name="discoverable">Tryb wykrywania</string>
+    <string name="title_connected_to">Połączono: </string>
+    <string name="title_connecting">Łączenie...</string>
+    <string name="title_not_connected">Nie połączono</string>
+</resources>
